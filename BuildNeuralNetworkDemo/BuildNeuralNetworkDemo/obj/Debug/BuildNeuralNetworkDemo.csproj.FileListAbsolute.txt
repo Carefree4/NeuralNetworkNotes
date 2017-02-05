@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\BuildNeuralNetworkDemo\obj\Debug\BuildNeuralNetworkDemo.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\BuildNeuralNetworkDemo\bin\Debug\BuildNeuralNetworkDemo.exe.config
+c:\users\max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\BuildNeuralNetworkDemo\bin\Debug\BuildNeuralNetworkDemo.exe
+c:\users\max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\BuildNeuralNetworkDemo\bin\Debug\BuildNeuralNetworkDemo.pdb
+c:\users\max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\BuildNeuralNetworkDemo\obj\Debug\BuildNeuralNetworkDemo.exe
+c:\users\max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\BuildNeuralNetworkDemo\obj\Debug\BuildNeuralNetworkDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\TryAgain\bin\Debug\TryAgain.exe.config
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\TryAgain\bin\Debug\TryAgain.exe
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\TryAgain\bin\Debug\TryAgain.pdb
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\TryAgain\obj\Debug\TryAgain.csprojResolveAssemblyReference.cache
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\TryAgain\obj\Debug\TryAgain.exe
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\TryAgain\obj\Debug\TryAgain.pdb

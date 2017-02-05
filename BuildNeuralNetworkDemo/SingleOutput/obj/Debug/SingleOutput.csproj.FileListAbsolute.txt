@@ -1,0 +1,6 @@
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\SingleOutput\bin\Debug\SingleOutput.exe.config
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\SingleOutput\bin\Debug\SingleOutput.exe
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\SingleOutput\bin\Debug\SingleOutput.pdb
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\SingleOutput\obj\Debug\SingleOutput.csprojResolveAssemblyReference.cache
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\SingleOutput\obj\Debug\SingleOutput.exe
+C:\Users\Max\documents\visual studio 2017\Projects\BuildNeuralNetworkDemo\SingleOutput\obj\Debug\SingleOutput.pdb
